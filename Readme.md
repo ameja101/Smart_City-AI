@@ -6,7 +6,7 @@ This project implements:
 - **Bus arrival prediction (ETA)** using GPS pings
 - **Streamlit Dashboard** for city operators
 - **Mobile App (Expo/React Native)** for the public
-- **Edge deployment** on Raspberry Pi / Jetson for low‑latency inference
+- **Edge deployment** on Raspberry Pi / Jetson for low‑latency infeigirence
 
 
 ---
